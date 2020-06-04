@@ -1,15 +1,12 @@
+# Game-inReims
+
 # ng-maphilight
-
-An Angular 8 component that adds highlights to image maps.
-
-[![alt text](https://cdn-images-1.medium.com/max/800/1*NyFdxMXz9E2iDdinzMh-LQ.png "Example 2 in the docs")](https://tylerrick.github.io/ng-maphilight/)
 
 ## Usage
 
-Install the package via npm or yarn:
+Install the package via npm:
 ```
 npm i ng-maphilight --save
-yarn add ng-maphilight
 ```
 
 Import jQuery and maphilight plugin into the `<head></head>` of the index.html file:
